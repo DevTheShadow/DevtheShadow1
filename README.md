@@ -1,4 +1,4 @@
 # DevtheShadow1
 Primeros pasos
 Web
-URL: https://github.com/DevTheShadow/DevtheShadow1.git
+URL:https://devtheshadow.github.io/DevtheShadow1/
